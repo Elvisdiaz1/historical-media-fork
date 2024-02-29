@@ -1,0 +1,3 @@
+[submodule "historical-media-fork"]
+	path = historical-media-fork
+	url = https://github.com/Elvisdiaz1/historical-media-fork.git
